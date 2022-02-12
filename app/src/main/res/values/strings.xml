@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Operaciones Matematicas</string>
+    <string name="num1">Ingrese un valor</string>
+    <string name="num2">Ingrese un valor</string>
+    <string name="Suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="mult">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="n1">Numero1</string>
+    <string name="n2">Numero2</string>
+    <string name="RES">Resultado</string>
+    <string name="Atras">Atras</string>
+</resources>
